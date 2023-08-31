@@ -1,0 +1,1 @@
+export const wood = require('./wood.png');
